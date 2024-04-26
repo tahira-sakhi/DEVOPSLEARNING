@@ -1,0 +1,23 @@
+{
+  "name": "devops_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahira-sakhi/devops_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahira-sakhi/devops_repo/issues"
+  },
+  "homepage": "https://github.com/tahira-sakhi/devops_repo#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
